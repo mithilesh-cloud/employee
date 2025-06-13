@@ -1,0 +1,5 @@
+com\kiet\employee_directory\controller\EmployeeThymeleafController.class
+com\kiet\employee_directory\model\Employee.class
+com\kiet\employee_directory\EmployeeDirectoryApplication.class
+com\kiet\employee_directory\controller\EmployeeController.class
+com\kiet\employee_directory\repository\EmployeeRepository.class
